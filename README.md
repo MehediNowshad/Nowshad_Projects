@@ -6,4 +6,4 @@ Hello! I am Mehedi Hasan Nowshad, a math enthusiast.
 ---
 
 ## 📂 Projects
-- **Thesis** – my thesis on elliptic genus elliptic_genus__Colored_version_.pdf
+- **Thesis** – my thesis on (files/elliptic genus elliptic_genus__Colored_version_.pdf)
